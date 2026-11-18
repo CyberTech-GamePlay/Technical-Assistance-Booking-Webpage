@@ -6,7 +6,7 @@
    1) CONFIGURATION  —  replace with your Supabase keys
    --------------------------------------------------------- */
 const SUPABASE_URL      = 'https://bnwqksbiunkxwmhxyphz.supabase.co';
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_PUBLIC_KEY';
+const SUPABASE_ANON_KEY = 'sb_publishable_pbFrpxwZKnNDCgB39eZp2g_Aa-5wffn';
 const STORAGE_BUCKET    = 'booking-screenshots';   // public bucket name
 
 const MAX_SLOTS_PER_DAY = 5;   // slots per day
