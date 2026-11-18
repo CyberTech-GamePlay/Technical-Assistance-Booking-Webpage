@@ -5,7 +5,7 @@
 /* ---------------------------------------------------------
    1) CONFIGURATION  —  replace with your Supabase keys
    --------------------------------------------------------- */
-const SUPABASE_URL      = 'https://YOUR-PROJECT-REF.supabase.co';
+const SUPABASE_URL      = 'https://bnwqksbiunkxwmhxyphz.supabase.co';
 const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_PUBLIC_KEY';
 const STORAGE_BUCKET    = 'booking-screenshots';   // public bucket name
 
